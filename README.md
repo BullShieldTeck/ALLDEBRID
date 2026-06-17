@@ -62,7 +62,7 @@
 
 ## 📥 Téléchargements
 
-Rendez-vous dans la section **[Releases](https://github.com/BullShieldTeck/Alldebrid_code/releases)** pour télécharger la dernière version stable de l'application au format APK :
+Rendez-vous dans la section **[Releases](https://github.com/BullShieldTeck/ALLDEBRID/releases)** pour télécharger la dernière version stable de l'application au format APK :
 
 1. Téléchargez le fichier `AllDebrid_Manager_release.apk`.
 2. Autorisez l'installation d'applications de sources inconnues dans les paramètres de votre appareil si nécessaire.
