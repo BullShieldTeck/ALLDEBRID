@@ -76,6 +76,14 @@ Rendez-vous dans la section **[Releases](https://github.com/BullShieldTeck/ALLDE
 
 ---
 
+## 💖 Soutenir le projet
+
+Si vous appréciez cette application et souhaitez soutenir son développement, vous pouvez faire un don :
+
+- [Faire un don via PayPal](https://paypal.me/lbnlebon) ☕
+
+---
+
 ## ⚖️ Clause de Non-Responsabilité (Disclaimer)
 *Cette application est un projet indépendant et n'est pas affiliée à, ni approuvée par AllDebrid. Vous devez posséder un compte AllDebrid valide pour pouvoir utiliser les fonctionnalités de cette application.*
 
