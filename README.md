@@ -80,7 +80,6 @@ Rendez-vous dans la section **[Releases](https://github.com/BullShieldTeck/ALLDE
 
 Si vous appréciez cette application et souhaitez soutenir son développement, vous pouvez faire un don :
 
-- [Faire un don via PayPal](https://paypal.me/lbnlebon) ⚡
 - [Soutenir sur Buy Me a Coffee](https://buymeacoffee.com/ekho974) ☕
 
 ---
