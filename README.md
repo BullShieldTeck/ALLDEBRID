@@ -54,7 +54,7 @@
 
 | Connexion & Association PIN | Gestionnaire de Torrents | Mode AMOLED Noir Pur |
 |:---:|:---:|:---:|
-| <img src="assets/setup_screen.png" width="250" alt="Setup Screen"/> | <img src="assets/torrents_screen.png" width="250" alt="Torrents Screen"/> | <img src="assets/amoled_mode.png" width="250" alt="AMOled Dark Mode"/> |
+| <img src="img/Setup_Screen.jpg" width="250" alt="Setup Screen"/> | <img src="img/torrents_Screen.jpg" width="250" alt="Torrents Screen"/> | <img src="img/AMOled%20Dark%20Mode.jpg" width="250" alt="AMOled Dark Mode"/> |
 
 *(Images d'illustration à titre de démonstration de l'interface utilisateur)*
 
@@ -64,7 +64,7 @@
 
 Rendez-vous dans la section **[Releases](https://github.com/BullShieldTeck/Alldebrid_code/releases)** pour télécharger la dernière version stable de l'application au format APK :
 
-1. Téléchargez le fichier `AllDebrid_Manager_v1.0.1_release.apk`.
+1. Téléchargez le fichier `AllDebrid_Manager_release.apk`.
 2. Autorisez l'installation d'applications de sources inconnues dans les paramètres de votre appareil si nécessaire.
 3. Installez l'APK et profitez de vos contenus !
 
