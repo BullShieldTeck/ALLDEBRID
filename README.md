@@ -79,6 +79,6 @@ Rendez-vous dans la section **[Releases](https://github.com/BullShieldTeck/ALLDE
 ## ⚖️ Clause de Non-Responsabilité (Disclaimer)
 *Cette application est un projet indépendant et n'est pas affiliée à, ni approuvée par AllDebrid. Vous devez posséder un compte AllDebrid valide pour pouvoir utiliser les fonctionnalités de cette application.*
 
-## Licence et Droits d'auteur
+## 📄 Licence et Droits d'auteur
 Tous droits réservés. 
 Il est interdit de modifier ou décompiler cet APK sans autorisation préalable.
