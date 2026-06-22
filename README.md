@@ -26,7 +26,7 @@
 
 <a id="fr"></a>
 
-## 🇫🇷 AllDebrid Manager — Français
+## 📘 AllDebrid Manager - Français
 
 **AllDebrid Manager** est un client Android moderne, fluide et performant conçu pour gérer votre compte AllDebrid de manière intuitive. Que vous souhaitiez débrider des liens, gérer vos torrents ou streamer vos contenus directement sur votre téléviseur ou votre smartphone, l'application centralise tous vos besoins premium dans une interface utilisateur soignée.
 
@@ -137,7 +137,7 @@ Il est interdit de modifier ou décompiler cet APK sans autorisation préalable.
 
 <a id="en"></a>
 
-## 🇬🇧 AllDebrid Manager — English
+## 📕 AllDebrid Manager - English
 
 **AllDebrid Manager** is a modern, smooth, and high-performance Android client designed to manage your AllDebrid account intuitively. Whether you want to unrestrict links, manage your torrents, or stream your content directly to your TV or smartphone, the app centralizes all your premium needs in a polished user interface.
 
