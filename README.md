@@ -1,6 +1,6 @@
 # 🚀 AllDebrid Manager by EkHo
 
-[![Release](https://img.shields.io/badge/Release-v1.1.1-brightgreen.svg)](https://github.com/BullShieldTeck/Alldebrid_code/releases)
+[![Release](https://img.shields.io/badge/Release-v1.1.3-brightgreen.svg)](https://github.com/BullShieldTeck/Alldebrid_code/releases)
 [![Platform](https://img.shields.io/badge/Platform-Android-blue.svg?logo=android)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-Compose-purple.svg?logo=kotlin)](https://kotlinlang.org)
 
@@ -15,7 +15,7 @@
 - **Saisie Multi-Liens** : Collez plusieurs liens à la fois (un par ligne) dans la zone de saisie optimisée (hauteur fixe avec défilement vertical).
 - **Résolution Parallèle** : Vos liens sont traités simultanément en arrière-plan grâce aux coroutines Kotlin.
 - **Actions Globales (Bulk)** : Lancez le téléchargement natif de tous les liens résolus, copiez-les tous en un clic, ou ouvrez-les tous dans un navigateur/téléchargeur externe.
-- **Actions Individuelles** : Streamez, téléchargez (interne/externe), copiez, partagez ou ouvrez dans un lecteur externe (VLC, MX Player, etc.) chaque fichier résolu.
+- **Actions Individuelles** : Streamez directement via vos lecteurs externes préférés (VLC, MX Player, Nova Player, Kodi, etc.), téléchargez, copiez ou partagez chaque fichier résolu.
 
 ### 🧲 Gestionnaire Avancé de Torrents & Magnets
 - **Ajout Multi-Source** : Ajoutez vos fichiers `.torrent` locaux ou collez simplement des liens Magnet.
@@ -23,15 +23,15 @@
 - **Explorateur de Fichiers** : Parcourez l'arborescence des dossiers et fichiers de vos torrents terminés, puis débridez et streamez les fichiers individuels de votre choix.
 
 ### 🤖 Intelligence Artificielle (Gemini AI)
-- **Résumés de Fichiers à la Demande** : Un bouton étincelles (`AutoAwesome`) vous permet de générer à la demande un résumé intelligent pour vos torrents, fichiers ou liens débridés.
-- **Sélection du Modèle** : Choisissez entre **Gemini 2.5 Flash** (analyses riches) et **Gemini 2.5 Flash-Lite** (ultra-rapide et économe en quota).
-- **Prompt Multilingue** : Les résumés s'adaptent automatiquement à la langue courante de l'application (Français ou Anglais).
+- **Résumés & Synopsis Enrichis** : Un bouton étincelles (`AutoAwesome`) vous permet de générer à la demande un résumé intelligent et un synopsis complet pour vos torrents, fichiers ou liens débridés.
+- **Sélection du Modèle** : Choisissez parmi **Gemini 3.5 Flash** (le modèle par défaut de dernière génération, rapide et intelligent), **Gemini 2.5 Flash** (analyses riches) et **Gemini 2.5 Flash-Lite** (ultra-rapide et économe en quota).
+- **Prompt Multilingue** : Les résumés et synopsis s'adaptent automatiquement à la langue courante de l'application (Français ou Anglais).
 - **Optimisation du Quota & Cache local** : Vos clés API personnelles sont stockées localement de manière sécurisée. Les résumés générés sont sauvegardés dans la base de données locale Room (`GeminiSummaryCache`) pour éviter les requêtes API réseau inutiles.
 
-### 📺 Support Natif Google Cast (Chromecast)
-- **Diffusion Grand Écran** : Diffusez vos vidéos en haute définition directement sur votre TV en utilisant l'icône Cast intégrée.
+### 📺 Dialogue Cast Dédié (Chromecast)
+- **Bouton Cast Universel** : Diffusez facilement vos vidéos depuis n'importe quel onglet grâce au bouton Cast (`Icons.Filled.Cast`) disponible sur les liens débridés (*Débrider*), les fichiers de torrents (*Torrents*) et l'historique de téléchargements.
+- **Interface de Contrôle Dédiée** : Un dialogue interactif de Cast (`CastDialog`) vous permet de vous connecter rapidement à votre Smart TV / Android TV, de démarrer la diffusion, de mettre en pause ou d'arrêter la lecture directement depuis votre smartphone.
 - **Conversion Dynamique (MIME-Type)** : Détection intelligente des formats vidéo (`.mp4`, `.mkv`, `.ts`, `.m3u8`) pour assurer une compatibilité et une lecture optimale sur les récepteurs Chromecast.
-- **Contrôles Intégrés** : Gérez la lecture (Play, Pause, position de lecture) depuis le panneau de contrôle de votre smartphone.
 
 ### 🎨 Design Premium & Ergonomie
 - **Thème Sombre & AMOLED** : Thème noir pur adapté aux écrans AMOLED afin d'économiser la batterie tout en profitant d'un superbe design moderne.
